@@ -1,0 +1,54 @@
+.col-md-5{
+    padding:25px;
+
+}
+.h2{
+    color:light;
+    font-style: italic;
+}
+#p{
+    color:azure;
+    width:25px;
+    border-radius: 50px;
+    border-color: aliceblue;
+}
+.img{
+    border-radius: 25px;
+    border-color:antiquewhite;
+}
+#p2{
+    color:azure;
+
+}
+#img{
+    padding:25px;
+    margin-bottom: 25px;
+}
+#p3{
+    margin-top: 25px;
+    color:azure;
+}
+.body{
+background-color:cyan;
+}
+.label{
+    font-size:x-large;
+    color: maroon;
+    font-style: italic;
+    justify-content: center;
+}
+.l2{
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.input{
+    align-content: center;
+}
+.Hindi{
+    font-size:x-large;
+    color: maroon;
+    font-style: italic;
+    align-items: baseline;
+    justify-items: center;
+    
+}
